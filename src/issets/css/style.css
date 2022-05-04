@@ -90,6 +90,7 @@ input {
   align-items:center;
   gap:10px;
   margin:10px;
+  margin-left: 20px;
 }
 .container-btn{
   display:flex;
