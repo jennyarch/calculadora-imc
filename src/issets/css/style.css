@@ -47,9 +47,6 @@ input {
   color:#2F4F4F;
 }
 
-
-
-
 .container-cabecalho {
   display:flex;
   flex-direction:column;
@@ -136,7 +133,7 @@ input {
   background:#838B8B;
 }
 
-@media (max-width: 400px) {
+@media (max-width: 415px) {
   .container{
     width: 300px;
   }
@@ -147,6 +144,9 @@ input {
     width: 200px;
   }
   .resultado {
+    width: 250px;
+  }
+  .container-cabecalho hr{
     width: 250px;
   }
 }
